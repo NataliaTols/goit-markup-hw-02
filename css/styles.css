@@ -54,6 +54,7 @@ a {
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: #FFFFFF;
+        text-align: center;
 }
 .hero-button {
     background-color: #4D5AE5;
@@ -93,6 +94,7 @@ a {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 .team-member {
     font-family: Roboto;
@@ -112,6 +114,7 @@ a {
 
 .team-list {
     background-color: #FFFFFF;
+    color: #2E2F42;
 }
 
 .portfolio-title {
@@ -159,4 +162,5 @@ a {
 .footer-description {
     color: #f4f4fd;
     letter-spacing: 0.02em;
+    line-height: 1.5;
 }
